@@ -1874,7 +1874,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'current VizSettings: 07-07-01-2023-jun'
+  m_text: 'current VizSettings: 15+09-02-2023-jun'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2230,7 +2230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10c777018e5104c45a0d086202451d85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vizSettings: {fileID: 11400000, guid: c264de431902b4bd8accb8f6f3be0653, type: 2}
+  vizSettings: {fileID: 11400000, guid: f204375aa6a08444fb5727bfbdc238b5, type: 2}
   assetPath: Resources/UTC-ORIGINALS-PNG/
   prefab: {fileID: 8881635716841560083, guid: 7c06bb3dfd0d34adc94449a39f5a3cbd, type: 3}
   runOnStart: 1
@@ -2239,8 +2239,8 @@ MonoBehaviour:
   instantiateContainer: {fileID: 870832126}
   useInstantiateContainerForPos: 1
   isPaused: 0
-  totalImages: 743
-  totalImagesWithBounds: 3140
+  totalImages: 725
+  totalImagesWithBounds: 2907
   totalImagesScale: 0.003
   selected: []
   prefabs: []
@@ -2410,7 +2410,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "playerResolution (px): (640.00, 1080.00) \nplayerViewSize (units): (30.81,
+  m_text: "playerResolution (px): (1080.00, 1920.00) \nplayerViewSize (units): (29.25,
     52.00, 0.00) \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2664,7 +2664,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "deviceResolution: (4480.00, 2520.00)  \nplayerAspectRatio: 0.59:1"
+  m_text: "deviceResolution: (4480.00, 2520.00)  \nplayerAspectRatio: 0.56:1"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5559,16 +5559,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cameraSize: 26
   mainCanvasRect: {fileID: 369196584}
-  mainCanvasResolution: {x: 640, y: 1080}
-  playerResolution: {x: 640, y: 1080}
-  playerViewSize: {x: 30.814816, y: 52, z: 0}
-  playerAspectRatio: 0.5925926
+  mainCanvasResolution: {x: 1080, y: 1920}
+  playerResolution: {x: 1080, y: 1920}
+  playerViewSize: {x: 29.25, y: 52, z: 0}
+  playerAspectRatio: 0.5625
   playerFullScreen: 0
   deviceResolution: {x: 4480, y: 2520}
   deviceAspectRatio: 1.7777778
   worldContainer: {fileID: 1785173691}
   instantiateContainer: {fileID: 870832126}
-  instantiateContainerLongestSide: 1409
+  instantiateContainerLongestSide: 1337
   resolutionReport1Text: {fileID: 951192706}
   resolutionReport2Text: {fileID: 1026664893}
   coroutineRunning: 0
@@ -5598,7 +5598,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 30.814816, y: 52, z: 1}
+  m_Size: {x: 29.25, y: 52, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1815612575
 GameObject:
